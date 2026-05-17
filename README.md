@@ -1,5 +1,3 @@
-# adcaponte.github.io
-App finanças
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
